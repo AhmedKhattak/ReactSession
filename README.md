@@ -1,12 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-First Install create-react-app via
+First you need to install nodejs from  [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+
+Then you need to install vscode from  [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+
+Then Install create-react-app via
 
 ### `npm i -g create-react-app`
 
-Then
+Then inside the project directory run 
 
-In the project directory, you can run:
+### `npm install`
+
+Then run 
 
 ### `npm start`
 
